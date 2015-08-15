@@ -87,5 +87,5 @@ Gianluca Martino, and David A. Mellis.
 Arduino uses the GNU avr-gcc toolchain, avrdude, avr-libc, and code from
 Processing and Wiring.
 
-Arduino-Tiny is based on work by David A. Mellis, René Bohne, R. Wiersma,
-Alessandro Saporetti, and Brian Cook.
+Arduino-Tiny is based on work by David A. Mellis, RenÃ© Bohne, R. Wiersma,
+Alessandro Saporetti, Brian Cook and James Zammit.
