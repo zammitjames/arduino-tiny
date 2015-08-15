@@ -10,7 +10,7 @@ ATtiny85 (85/45/25), and ATtiny2313 processors.
 For more information about Arduino, see the website at: http://www.arduino.cc/
 
 
-INSTALLATION
+##INSTALLATION
 
 First ensure the Arduino software is correctly installed.
 
@@ -77,7 +77,7 @@ Next...
 You are now ready to use Arduino-Tiny!
 
 
-CREDITS
+##CREDITS
 
 Arduino is an open source project, supported by many.
 
